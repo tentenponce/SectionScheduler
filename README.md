@@ -9,6 +9,16 @@ and displays the availability of each room.
 </p>
 <p><b>How to use: </b>As you can see, this project is not yet finished, but you can try this
 by running the SectionScheduler.jar on dist folder. (Make sure you also put the mainDB.accdb together with the jar)</p>
+<hr>
+<p><h3>Features</h3></p>
+<ul>
+  <li>Section Maintenance</li>
+  <li>Subject Maintenance</li>
+  <li>Room Schedule Viewing</li>
+  <li>Room Availability Viewing</li>
+  <li>Custom Section (Choose your subject(s)!)</li>
+</ul>
+<hr>
 <p><b>Credits: </b></p>
 <ul>
 <li>Component Used: <a href="https://swingx.java.net">swingX</a> (3rd party library) and java default swing (because not all components are on swingX).</li>
@@ -19,15 +29,6 @@ by running the SectionScheduler.jar on dist folder. (Make sure you also put the 
 <li>StackOverFlow</li>
 <li>NetBeans</li>
 <li>STI College Caloocan (My School)</li>
-</ul>
-<hr>
-<p><h3>Features</h3></p>
-<ul>
-  <li>Section Maintenance</li>
-  <li>Subject Maintenance</li>
-  <li>Room Schedule Viewing</li>
-  <li>Room Availability Viewing</li>
-  <li>Custom Section (Choose your subject(s)!)</li>
 </ul>
 <h2>Some Screen shots: </h2>
 <img src="http://s12.postimg.org/z3zzmmvm5/main.png"></img>
