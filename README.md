@@ -25,7 +25,7 @@ by running the SectionScheduler.jar on dist folder. (Make sure you also put the 
 <li>Logging: <a href="http://www.slf4j.org">SLF4J</a> Simple Logging Facade for Java</li>
 <li><a href="https://www.youtube.com/channel/UCLuXaf-zBsw8Lzz6nqr66Jw">Vertex Digital Arts (Custom JFrame, Animations, etc)</li>
 <li><a href="http://www.teknikindustries.com">Teknik Industries</a></li>
-<li>Silk Icons (I cant remember where did I download this icon pack)</li>
+<li>Mark James(mjames@gmail.com) for his <a href="http://www.famfamfam.com/lab/icons/silk/">Silk Icon Set 1.3</a></li>
 <li>StackOverFlow</li>
 <li>NetBeans</li>
 <li>STI College Caloocan (My School)</li>
